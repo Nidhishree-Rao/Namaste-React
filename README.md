@@ -1,4 +1,4 @@
-A Frontend food delivery application made using React and Swiggy's Live API.
+A Frontend food delivery application made using React and Swiggy's Live API.🚀
 
 
 **Tech Stack :-**
